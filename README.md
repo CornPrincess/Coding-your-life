@@ -6,6 +6,7 @@ This project record my study plan and CS notes, I am an software development now
 
 So this project is proper for the new software engineer and others who want to swatch to computer field.
 
+how to start
 ---
 
 ## Table of Contents
